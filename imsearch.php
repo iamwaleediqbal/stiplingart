@@ -1,0 +1,264 @@
+<?php require_once("res/x5engine.php"); ?>
+<!DOCTYPE html><!-- HTML5 -->
+<html prefix="og: http://ogp.me/ns#" lang="en-GB" dir="ltr">
+	<head>
+		<title>Search - Inspirational Art</title>
+		<meta charset="utf-8" />
+		<!--[if IE]><meta http-equiv="ImageToolbar" content="False" /><![endif]-->
+		<meta name="author" content="Incomedia" />
+		<meta name="generator" content="Incomedia WebSite X5 Pro 2022.2.11 - www.websitex5.com" />
+		<meta property="og:locale" content="en" />
+		<meta property="og:type" content="website" />
+		<meta property="og:url" content="http://localhost/imsearch.php" />
+		<meta property="og:title" content="Search" />
+		<meta property="og:site_name" content="Inspirational Art" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		
+		<link rel="stylesheet" href="style/reset.css?2022-2-11-0" media="screen,print" />
+		<link rel="stylesheet" href="style/print.css?2022-2-11-0" media="print" />
+		<link rel="stylesheet" href="style/style.css?2022-2-11-0" media="screen,print" />
+		<link rel="stylesheet" href="style/template.css?2022-2-11-0" media="screen" />
+		<link rel="stylesheet" href="pluginAppObj/imHeader_pluginAppObj_02/css/menu-overlay-effects.css" media="screen, print" />
+		<link rel="stylesheet" href="pluginAppObj/imHeader_pluginAppObj_02/css/custom.css" media="screen, print" />
+		<link rel="stylesheet" href="pluginAppObj/imFooter_pluginAppObj_04/custom.css" media="screen, print" />
+		
+		<link rel="stylesheet" href="pluginAppObj/imStickyBar_pluginAppObj_02/css/menu-overlay-effects.css" media="screen, print" />
+		<link rel="stylesheet" href="pluginAppObj/imStickyBar_pluginAppObj_02/css/custom.css" media="screen, print" />
+		<link rel="stylesheet" href="pcss/imsearch.css?2022-2-11-0-638061271922698968" media="screen,print" />
+		<script src="res/jquery.js?2022-2-11-0"></script>
+		<script src="res/x5engine.js?2022-2-11-0" data-files-version="2022-2-11-0"></script>
+		<script src="appsresources/js/classie.js"></script>
+		<script src="appsresources/js/modernizr.custom.js"></script>
+		<script src="appsresources/js/snap.svg-min.js"></script>
+		<script src="pluginAppObj/imHeader_pluginAppObj_02/js/main.js"></script>
+		<script src="pluginAppObj/imFooter_pluginAppObj_04/main.js"></script>
+		
+		<script src="appsresources/js/classie.js"></script>
+		<script src="appsresources/js/modernizr.custom.js"></script>
+		<script src="appsresources/js/snap.svg-min.js"></script>
+		<script src="pluginAppObj/imStickyBar_pluginAppObj_02/js/main.js"></script>
+		<script>
+			window.onload = function(){ checkBrowserCompatibility('Your browser does not support the features necessary to display this website.','Your browser may not support the features necessary to display this website.','[1]Update your browser[/1] or [2]continue without updating[/2].','http://outdatedbrowser.com/'); };
+			x5engine.utils.currentPagePath = 'imsearch.php';
+			x5engine.boot.push(function () { x5engine.imPageToTop.initializeButton({}); });
+		</script>
+		<link rel="icon" href="favicon.ico?2022-2-11-0-638061271922623921" type="image/vnd.microsoft.icon" />
+	</head>
+	<body>
+		<div id="imPageExtContainer">
+			<div id="imPageIntContainer">
+				<div id="imHeaderBg"></div>
+				<div id="imFooterBg"></div>
+				<div id="imPage">
+					<header id="imHeader">
+						<h1 class="imHidden">Search - Inspirational Art</h1>
+						<div id="imHeaderObjects"><div id="imHeader_pluginAppObj_02_wrapper" class="template-object-wrapper"><!-- Overlay Menu v.5 --><div id="imHeader_pluginAppObj_02">
+           <div class="trigger-overlay hamburger-button">
+                <div>
+                    <div>
+                        <div class="hamburger-bar"></div>
+                        <div class="hamburger-bar"></div>
+                        <div class="hamburger-bar"></div>
+                    </div>
+                </div>
+            </div>
+        
+            <script>
+                var wsx5Data_imHeader_pluginAppObj_02 = {};
+                wsx5Data_imHeader_pluginAppObj_02.id = "imHeader_pluginAppObj_02";
+                wsx5Data_imHeader_pluginAppObj_02.preview = ("online" === 'uipreview' ? true : false);
+                wsx5Data_imHeader_pluginAppObj_02.fw = ("" ? "true" : "false");
+                wsx5Data_imHeader_pluginAppObj_02.param_effects = "fade";
+                wsx5Data_imHeader_pluginAppObj_02.anim_duration = 500;
+                overlaymenu_imHeader_pluginAppObj_02(wsx5Data_imHeader_pluginAppObj_02);
+            </script>
+       </div></div><div id="imHeader_imMenuObject_03_wrapper" class="template-object-wrapper"><!-- UNSEARCHABLE --><div id="imHeader_imMenuObject_03"><div id="imHeader_imMenuObject_03_container"><div class="hamburger-button hamburger-component"><div><div><div class="hamburger-bar"></div><div class="hamburger-bar"></div><div class="hamburger-bar"></div></div></div></div><div class="hamburger-menu-background-container hamburger-component">
+	<div class="hamburger-menu-background menu-mobile menu-mobile-animated hidden">
+		<div class="hamburger-menu-close-button"><span>&times;</span></div>
+	</div>
+</div>
+<ul class="menu-mobile-animated hidden">
+	<li class="imMnMnFirst imPage" data-link-paths=",/index.html,/">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="index.html">
+HOME PAGE		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/journey.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="journey.html">
+JOURNEY		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/shop.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="shop.html">
+SHOP		</a>
+</div>
+</div>
+	</li><li class="imMnMnLast imPage" data-link-paths=",/contact.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="contact.html">
+CONTACT		</a>
+</div>
+</div>
+	</li></ul></div></div><!-- UNSEARCHABLE END --><script>
+var imHeader_imMenuObject_03_settings = {
+	'menuId': 'imHeader_imMenuObject_03',
+	'responsiveMenuEffect': 'slide',
+	'responsiveMenuLevelOpenEvent': 'mouseover',
+	'animationDuration': 1000,
+}
+x5engine.boot.push(function(){x5engine.initMenu(imHeader_imMenuObject_03_settings)});
+$(function () {$('#imHeader_imMenuObject_03_container ul li').not('.imMnMnSeparator').each(function () {    var $this = $(this), timeout = 0;    $this.on('mouseenter', function () {        if($(this).parents('#imHeader_imMenuObject_03_container-menu-opened').length > 0) return;         clearTimeout(timeout);        setTimeout(function () { $this.children('ul, .multiple-column').stop(false, false).fadeIn(); }, 250);    }).on('mouseleave', function () {        if($(this).parents('#imHeader_imMenuObject_03_container-menu-opened').length > 0) return;         timeout = setTimeout(function () { $this.children('ul, .multiple-column').stop(false, false).fadeOut(); }, 250);    });});});
+$(function () {$('#imHeader_imMenuObject_03_container > ul > li').not('.imMnMnSeparator').each(function () {    var $this = $(this), timeout = 0;    $this.on('mouseenter', function () {        clearTimeout(timeout);        var overElem = $this.children('.label-wrapper-over');        if(overElem.length == 0)            overElem = $this.children('.label-wrapper').clone().addClass('label-wrapper-over').appendTo($this);        setTimeout(function(){overElem.addClass('animated');}, 10);    }).on('mouseleave', function () {        var overElem = $this.children('.label-wrapper-over');        overElem.removeClass('animated');        timeout = setTimeout(function(){overElem.remove();}, 500);    });});});
+</script>
+</div><div id="imHeader_pluginAppObj_04_wrapper" class="template-object-wrapper"><div id="imHeader_pluginAppObj_04">
+    <span style="color: rgba(102, 102, 102, 1);font-family: Open Sans;font-size: 10pt;font-weight: normal;font-style: normal;" class="widget_quantity_total"></span>
+    </div></div><div id="imHeader_imObjectImage_05_wrapper" class="template-object-wrapper"><div id="imHeader_imObjectImage_05"><div id="imHeader_imObjectImage_05_container"><img src="images/carticon.png" title="" alt="" />
+</div></div></div><div id="imHeader_imObjectImage_06_wrapper" class="template-object-wrapper"><div id="imHeader_imObjectImage_06"><div id="imHeader_imObjectImage_06_container"><img src="images/newlogoa.png" title="" alt="" />
+</div></div></div></div>
+					</header>
+					<div id="imStickyBarContainer">
+						<div id="imStickyBarGraphics"></div>
+						<div id="imStickyBar">
+							<div id="imStickyBarObjects"><div id="imStickyBar_imObjectImage_01_wrapper" class="template-object-wrapper"><div id="imStickyBar_imObjectImage_01"><div id="imStickyBar_imObjectImage_01_container"><img src="images/header-logo.png" title="" alt="" />
+</div></div></div><div id="imStickyBar_pluginAppObj_02_wrapper" class="template-object-wrapper"><!-- Overlay Menu v.5 --><div id="imStickyBar_pluginAppObj_02">
+           <div class="trigger-overlay hamburger-button">
+                <div>
+                    <div>
+                        <div class="hamburger-bar"></div>
+                        <div class="hamburger-bar"></div>
+                        <div class="hamburger-bar"></div>
+                    </div>
+                </div>
+            </div>
+        
+            <script>
+                var wsx5Data_imStickyBar_pluginAppObj_02 = {};
+                wsx5Data_imStickyBar_pluginAppObj_02.id = "imStickyBar_pluginAppObj_02";
+                wsx5Data_imStickyBar_pluginAppObj_02.preview = ("online" === 'uipreview' ? true : false);
+                wsx5Data_imStickyBar_pluginAppObj_02.fw = ("" ? "true" : "false");
+                wsx5Data_imStickyBar_pluginAppObj_02.param_effects = "fade";
+                wsx5Data_imStickyBar_pluginAppObj_02.anim_duration = 500;
+                overlaymenu_imStickyBar_pluginAppObj_02(wsx5Data_imStickyBar_pluginAppObj_02);
+            </script>
+       </div></div><div id="imStickyBar_imMenuObject_03_wrapper" class="template-object-wrapper"><!-- UNSEARCHABLE --><div id="imStickyBar_imMenuObject_03"><div id="imStickyBar_imMenuObject_03_container"><div class="hamburger-button hamburger-component"><div><div><div class="hamburger-bar"></div><div class="hamburger-bar"></div><div class="hamburger-bar"></div></div></div></div><div class="hamburger-menu-background-container hamburger-component">
+	<div class="hamburger-menu-background menu-mobile menu-mobile-animated hidden">
+		<div class="hamburger-menu-close-button"><span>&times;</span></div>
+	</div>
+</div>
+<ul class="menu-mobile-animated hidden">
+	<li class="imMnMnFirst imPage" data-link-paths=",/index.html,/">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="index.html">
+HOME PAGE		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/journey.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="journey.html">
+JOURNEY		</a>
+</div>
+</div>
+	</li><li class="imMnMnMiddle imPage" data-link-paths=",/shop.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="shop.html">
+SHOP		</a>
+</div>
+</div>
+	</li><li class="imMnMnLast imPage" data-link-paths=",/contact.html">
+<div class="label-wrapper">
+<div class="label-inner-wrapper">
+		<a class="label" href="contact.html">
+CONTACT		</a>
+</div>
+</div>
+	</li></ul></div></div><!-- UNSEARCHABLE END --><script>
+var imStickyBar_imMenuObject_03_settings = {
+	'menuId': 'imStickyBar_imMenuObject_03',
+	'responsiveMenuEffect': 'slide',
+	'responsiveMenuLevelOpenEvent': 'mouseover',
+	'animationDuration': 1000,
+}
+x5engine.boot.push(function(){x5engine.initMenu(imStickyBar_imMenuObject_03_settings)});
+$(function () {$('#imStickyBar_imMenuObject_03_container ul li').not('.imMnMnSeparator').each(function () {    var $this = $(this), timeout = 0;    $this.on('mouseenter', function () {        if($(this).parents('#imStickyBar_imMenuObject_03_container-menu-opened').length > 0) return;         clearTimeout(timeout);        setTimeout(function () { $this.children('ul, .multiple-column').stop(false, false).fadeIn(); }, 250);    }).on('mouseleave', function () {        if($(this).parents('#imStickyBar_imMenuObject_03_container-menu-opened').length > 0) return;         timeout = setTimeout(function () { $this.children('ul, .multiple-column').stop(false, false).fadeOut(); }, 250);    });});});
+
+</script>
+</div></div>
+						</div>
+					</div>
+					<a class="imHidden" href="#imGoToCont" title="Skip the main menu">Go to content</a>
+					<div id="imSideBar">
+						<div id="imSideBarObjects"></div>
+					</div>
+					<div id="imContentGraphics"></div>
+					<main id="imContent">
+						<a id="imGoToCont"></a>
+						<div id="imSearchPage">
+						<h2 id="imPgTitle">Search results</h2>
+						<?php
+						$search = new imSearch();
+						$keys = isset($_GET['search']) ? @htmlspecialchars($_GET['search']) : "";
+						$page = isset($_GET['page']) ? @htmlspecialchars($_GET['page']) : 0;
+						$type = isset($_GET['type']) ? @htmlspecialchars($_GET['type']) : "pages"; ?>
+						<div class="searchPageContainer">
+						<?php echo $search->search($keys, $page, $type); ?>
+						</div>
+						</div>
+						
+					</main>
+					<footer id="imFooter">
+						<div id="imFooterObjects"><div id="imFooter_imTextObject_02_wrapper" class="template-object-wrapper"><div id="imFooter_imTextObject_02">
+	<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imFooter_imTextObject_02_tab0" style="opacity: 1; ">
+		<div class="text-inner">
+			<div>Disclaimer: All portraits are requests by the inspired. Any unauthorized reproduction or distribution of these portraits is prohibited.</div>
+		</div>
+	</div>
+
+</div>
+</div><div id="imFooter_imTextObject_03_wrapper" class="template-object-wrapper"><div id="imFooter_imTextObject_03">
+	<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imFooter_imTextObject_03_tab0" style="opacity: 1; ">
+		<div class="text-inner">
+			<div class="imHeading2">Contacts</div><div data-line-height="1" class="lh1"><img class="image-0" src="images/hori-red-spacer.png"  title="" alt=""/></div><div data-line-height="1" class="lh1"><span class="imTACenter fs11lh1"><br></span></div><div data-line-height="1.15" class="lh1-15"><span class="imTACenter fs11lh1-15">San Diego, CA 92126</span><br></div><div data-line-height="1.15" class="lh1-15"><span class="fs11lh1-15 ff1">Phone: &nbsp;</span><span class="imTACenter fs11lh1-15">+</span><span class="fs11lh1-15">1-757-806-8520</span></div><div data-line-height="1.15" class="lh1-15"><span class="fs11lh1-15 ff1">Email: info</span><span class="fs11lh1-15">@stipplingart.com</span></div><div data-line-height="1" class="lh1"><span class="fs10lh1 cf1">Copyright 2022 - Inspirational Art, LLC</span></div><div data-line-height="1" class="lh1"><span class="fs10lh1 cf1">StipplingArt.com, John-Michael.art, Inspirational Art</span></div><div data-line-height="1" class="lh1"><span class="fs10lh1 cf1">and Logo are the Registered Trademarks of Inspirational </span><span class="fs10lh1 cf1">Art, LLC</span></div>
+		</div>
+	</div>
+
+</div>
+</div><div id="imFooter_pluginAppObj_04_wrapper" class="template-object-wrapper"><!-- Social Icons v.16 --><div id="imFooter_pluginAppObj_04">
+            <div id="soc_imFooter_pluginAppObj_04">
+                <div class="wrapper horizontal flat none">
+                	<div class='social-icon flat'><a href='https://www.facebook.com/profile.php?id=100088431763573' target='_blank'><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><path d="M57,93V54H70.14l2-15H57V29.09c0-4.39.94-7.39,7.24-7.39H72V8.14a98.29,98.29,0,0,0-11.6-.6C48.82,7.54,41,14.61,41,27.59V39H27V54H41V93H57Z"/></svg><span class='fallbacktext'>Fb</span></a></div><div class='social-icon flat'><a href='https://instagram.com/inspirational.2.art?igshid=YmMyMTA2M2Y=' target='_blank'><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><g><path d="M50,15.16c11.35,0,12.69,0,17.17.25a23.52,23.52,0,0,1,7.89,1.46,14.07,14.07,0,0,1,8.07,8.07,23.52,23.52,0,0,1,1.46,7.89c0.2,4.48.25,5.83,0.25,17.17s0,12.69-.25,17.17a23.52,23.52,0,0,1-1.46,7.89,14.07,14.07,0,0,1-8.07,8.07,23.52,23.52,0,0,1-7.89,1.46c-4.48.2-5.82,0.25-17.17,0.25s-12.69,0-17.17-.25a23.52,23.52,0,0,1-7.89-1.46,14.07,14.07,0,0,1-8.07-8.07,23.52,23.52,0,0,1-1.46-7.89c-0.2-4.48-.25-5.83-0.25-17.17s0-12.69.25-17.17a23.52,23.52,0,0,1,1.46-7.89,14.07,14.07,0,0,1,8.07-8.07,23.52,23.52,0,0,1,7.89-1.46c4.48-.2,5.83-0.25,17.17-0.25M50,7.5c-11.54,0-13,0-17.52.26a31.19,31.19,0,0,0-10.32,2A21.73,21.73,0,0,0,9.73,22.16a31.19,31.19,0,0,0-2,10.32C7.55,37,7.5,38.46,7.5,50s0,13,.26,17.52a31.19,31.19,0,0,0,2,10.32A21.73,21.73,0,0,0,22.16,90.27a31.19,31.19,0,0,0,10.32,2c4.53,0.21,6,.26,17.52.26s13,0,17.52-.26a31.19,31.19,0,0,0,10.32-2A21.73,21.73,0,0,0,90.27,77.84a31.19,31.19,0,0,0,2-10.32c0.21-4.53.26-6,.26-17.52s0-13-.26-17.52a31.19,31.19,0,0,0-2-10.32A21.73,21.73,0,0,0,77.84,9.73a31.19,31.19,0,0,0-10.32-2C63,7.55,61.54,7.5,50,7.5h0Z"/><path d="M50,28.18A21.82,21.82,0,1,0,71.82,50,21.82,21.82,0,0,0,50,28.18Zm0,36A14.17,14.17,0,1,1,64.17,50,14.17,14.17,0,0,1,50,64.17Z"/><circle cx="72.69" cy="27.31" r="5.1"/></g></svg><span class='fallbacktext'>Ig</span></a></div>
+                </div>
+
+            </div>
+                <script>
+                    socialicons_imFooter_pluginAppObj_04();
+                </script>
+        </div></div><div id="imFooter_imObjectImage_05_wrapper" class="template-object-wrapper"><div id="imFooter_imObjectImage_05"><div id="imFooter_imObjectImage_05_container"><img src="images/newlogoa_y9xams1z.png" title="" alt="" />
+</div></div></div><div id="imFooter_imObjectImage_06_wrapper" class="template-object-wrapper"><div id="imFooter_imObjectImage_06"><div id="imFooter_imObjectImage_06_container"><a href="https://www.tiktok.com/@userp8ti29gvpd" target="_blank"><img src="images/tik-tok_30x30.png" title="" alt="" />
+</a></div></div></div><div id="imFooter_imTextObject_07_wrapper" class="template-object-wrapper"><div id="imFooter_imTextObject_07">
+	<div data-index="0"  class="text-tab-content grid-prop current-tab "  id="imFooter_imTextObject_07_tab0" style="opacity: 1; ">
+		<div class="text-inner">
+			<div class="imTALeft"><span class="fs11lh1-5"><i>Powered by &nbsp;</i></span><span class="fs11lh1-5">Chimaera Technologies</span></div>
+		</div>
+	</div>
+
+</div>
+</div></div>
+					</footer>
+				</div>
+				<span class="imHidden"><a href="#imGoToCont" title="Read this page again">Back to content</a></span>
+			</div>
+		</div>
+		<script src="cart/x5cart.js?2022-2-11-0-638061271922719887"></script>
+		<noscript class="imNoScript"><div class="alert alert-red">To use this website you must enable JavaScript.</div></noscript>
+	</body>
+</html>
