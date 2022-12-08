@@ -46,7 +46,7 @@ $products = array(
 		),
 		'thumb' => array(
 			'type' => 'image/jpg',
-			'url' => 'https://stipplingart/images/Ashley-n-Tyley.jpg',
+			'url' => 'https://stipplingart.com/images/Ashley-n-Tyley.jpg',
 			'width' => 1630,
 			'height' => 1080
 		),
@@ -98,7 +98,7 @@ $products = array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => 'Ashley & Tyley',
-			'image' => 'https://stipplingart/images/Ashley-n-Tyley.jpg',
+			'image' => 'https://stipplingart.com/images/Ashley-n-Tyley.jpg',
 			'description' => '36"x 24"',
 			'offers' => array(
 				'@type' => 'Offer',
@@ -153,7 +153,7 @@ $products = array(
 		),
 		'thumb' => array(
 			'type' => 'image/jpg',
-			'url' => 'https://stipplingart/images/BMWM.jpg',
+			'url' => 'https://stipplingart.com/images/BMWM.jpg',
 			'width' => 740,
 			'height' => 1080
 		),
@@ -205,7 +205,7 @@ $products = array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => 'Batman',
-			'image' => 'https://stipplingart/images/BMWM.jpg',
+			'image' => 'https://stipplingart.com/images/BMWM.jpg',
 			'description' => '36"x 24"',
 			'offers' => array(
 				'@type' => 'Offer',
@@ -260,7 +260,7 @@ $products = array(
 		),
 		'thumb' => array(
 			'type' => 'image/jpg',
-			'url' => 'https://stipplingart/images/JKWM.jpg',
+			'url' => 'https://stipplingart.com/images/JKWM.jpg',
 			'width' => 726,
 			'height' => 1080
 		),
@@ -312,7 +312,7 @@ $products = array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => 'Joker',
-			'image' => 'https://stipplingart/images/JKWM.jpg',
+			'image' => 'https://stipplingart.com/images/JKWM.jpg',
 			'description' => '36"x 24"',
 			'offers' => array(
 				'@type' => 'Offer',
@@ -367,7 +367,7 @@ $products = array(
 		),
 		'thumb' => array(
 			'type' => 'image/jpg',
-			'url' => 'https://stipplingart/images/BCWM.jpg',
+			'url' => 'https://stipplingart.com/images/BCWM.jpg',
 			'width' => 727,
 			'height' => 1080
 		),
@@ -419,7 +419,7 @@ $products = array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => 'Christenson Combative',
-			'image' => 'https://stipplingart/images/BCWM.jpg',
+			'image' => 'https://stipplingart.com/images/BCWM.jpg',
 			'description' => '36"x 24"',
 			'offers' => array(
 				'@type' => 'Offer',
@@ -474,7 +474,7 @@ $products = array(
 		),
 		'thumb' => array(
 			'type' => 'image/jpg',
-			'url' => 'https://stipplingart/images/GENWM.jpg',
+			'url' => 'https://stipplingart.com/images/GENWM.jpg',
 			'width' => 715,
 			'height' => 1080
 		),
@@ -526,7 +526,7 @@ $products = array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => 'Ganesha',
-			'image' => 'https://stipplingart/images/GENWM.jpg',
+			'image' => 'https://stipplingart.com/images/GENWM.jpg',
 			'description' => '36"x 24"',
 			'offers' => array(
 				'@type' => 'Offer',
@@ -581,7 +581,7 @@ $products = array(
 		),
 		'thumb' => array(
 			'type' => 'image/jpg',
-			'url' => 'https://stipplingart/images/QNWM.jpg',
+			'url' => 'https://stipplingart.com/images/QNWM.jpg',
 			'width' => 838,
 			'height' => 1080
 		),
@@ -633,7 +633,7 @@ $products = array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => 'Queen',
-			'image' => 'https://stipplingart/images/QNWM.jpg',
+			'image' => 'https://stipplingart.com/images/QNWM.jpg',
 			'description' => '36"x 24"',
 			'offers' => array(
 				'@type' => 'Offer',
@@ -688,7 +688,7 @@ $products = array(
 		),
 		'thumb' => array(
 			'type' => 'image/jpg',
-			'url' => 'https://stipplingart/images/GTWM_cxj8j9lz.jpg',
+			'url' => 'https://stipplingart.com/images/GTWM_cxj8j9lz.jpg',
 			'width' => 715,
 			'height' => 1080
 		),
@@ -740,7 +740,7 @@ $products = array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => 'Greta Thurnberg',
-			'image' => 'https://stipplingart/images/GTWM_cxj8j9lz.jpg',
+			'image' => 'https://stipplingart.com/images/GTWM_cxj8j9lz.jpg',
 			'description' => '36"x 24"',
 			'offers' => array(
 				'@type' => 'Offer',
@@ -795,7 +795,7 @@ $products = array(
 		),
 		'thumb' => array(
 			'type' => 'image/jpg',
-			'url' => 'https://stipplingart/images/IKWM_2bu3eumw.jpg',
+			'url' => 'https://stipplingart.com/images/IKWM_2bu3eumw.jpg',
 			'width' => 727,
 			'height' => 1080
 		),
@@ -847,7 +847,7 @@ $products = array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => 'Imran Khan',
-			'image' => 'https://stipplingart/images/IKWM_2bu3eumw.jpg',
+			'image' => 'https://stipplingart.com/images/IKWM_2bu3eumw.jpg',
 			'description' => '36"x 24"',
 			'offers' => array(
 				'@type' => 'Offer',
@@ -902,7 +902,7 @@ $products = array(
 		),
 		'thumb' => array(
 			'type' => 'image/jpg',
-			'url' => 'https://stipplingart/images/WVWM_oqpseitt.jpg',
+			'url' => 'https://stipplingart.com/images/WVWM_oqpseitt.jpg',
 			'width' => 1645,
 			'height' => 1080
 		),
@@ -1064,7 +1064,7 @@ $products = array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => 'The Wave',
-			'image' => 'https://stipplingart/images/WVWM_oqpseitt.jpg',
+			'image' => 'https://stipplingart.com/images/WVWM_oqpseitt.jpg',
 			'description' => '48" x 24"',
 			'offers' => array(
 				'@type' => 'Offer',
