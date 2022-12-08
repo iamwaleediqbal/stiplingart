@@ -8,8 +8,8 @@
 
 $imSettings['general'] = array(
 	'site_id' => 'D9F8D98372F4B61CF0833C4C3634AC46',
-	'url' => 'http://localhost/',
-	'homepage_url' => 'http://localhost/index.html',
+	'url' => 'https://stipplingart/',
+	'homepage_url' => 'https://stipplingart/index.html',
 	'icon' => '',
 	'version' => '2022.2.11.0',
 	'sitename' => 'Inspirational Art',
@@ -77,7 +77,7 @@ $couponData['products'] = array();
 $ecommerce->setPublicFolder('');
 $ecommerce->setCouponData($couponData);
 $ecommerce->setSettings(array(
-	'page_url' => 'http://localhost/cart/index.html',
+	'page_url' => 'https://stipplingart/cart/index.html',
 	'force_sender' => false,
 	'mail_btn_css' => 'display: inline-block; text-decoration: none; color: rgba(0, 0, 0, 1); background-color: rgba(255, 255, 255, 1); padding: 8px 30px 8px 30px; border-style: solid; border-width: 2px 2px 2px 2px; border-color: rgba(255, 0, 0, 1) rgba(255, 0, 0, 1) rgba(255, 0, 0, 1) rgba(255, 0, 0, 1); border-top-left-radius: 0px; border-top-right-radius: 0px; border-bottom-left-radius: 0px; border-bottom-right-radius: 0px;',
 	'email_opening' => 'Dear Customer,<br /><br />Thank you for your order. Below you will find the list of the products you have ordered; order will be confirmed only after the payment has been made.',
@@ -160,7 +160,7 @@ $ecommerce->setProductsData(array(
 		),
 		'thumb' => array(
 			'type' => 'image/jpg',
-			'url' => 'http://localhost/images/Ashley-n-Tyley.jpg',
+			'url' => 'https://stipplingart/images/Ashley-n-Tyley.jpg',
 			'width' => 1630,
 			'height' => 1080
 		),
@@ -212,7 +212,7 @@ $ecommerce->setProductsData(array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => 'Ashley & Tyley',
-			'image' => 'http://localhost/images/Ashley-n-Tyley.jpg',
+			'image' => 'https://stipplingart/images/Ashley-n-Tyley.jpg',
 			'description' => '36"x 24"',
 			'offers' => array(
 				'@type' => 'Offer',
@@ -267,7 +267,7 @@ $ecommerce->setProductsData(array(
 		),
 		'thumb' => array(
 			'type' => 'image/jpg',
-			'url' => 'http://localhost/images/BMWM.jpg',
+			'url' => 'https://stipplingart/images/BMWM.jpg',
 			'width' => 740,
 			'height' => 1080
 		),
@@ -319,7 +319,7 @@ $ecommerce->setProductsData(array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => 'Batman',
-			'image' => 'http://localhost/images/BMWM.jpg',
+			'image' => 'https://stipplingart/images/BMWM.jpg',
 			'description' => '36"x 24"',
 			'offers' => array(
 				'@type' => 'Offer',
@@ -374,7 +374,7 @@ $ecommerce->setProductsData(array(
 		),
 		'thumb' => array(
 			'type' => 'image/jpg',
-			'url' => 'http://localhost/images/JKWM.jpg',
+			'url' => 'https://stipplingart/images/JKWM.jpg',
 			'width' => 726,
 			'height' => 1080
 		),
@@ -426,7 +426,7 @@ $ecommerce->setProductsData(array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => 'Joker',
-			'image' => 'http://localhost/images/JKWM.jpg',
+			'image' => 'https://stipplingart/images/JKWM.jpg',
 			'description' => '36"x 24"',
 			'offers' => array(
 				'@type' => 'Offer',
@@ -481,7 +481,7 @@ $ecommerce->setProductsData(array(
 		),
 		'thumb' => array(
 			'type' => 'image/jpg',
-			'url' => 'http://localhost/images/BCWM.jpg',
+			'url' => 'https://stipplingart/images/BCWM.jpg',
 			'width' => 727,
 			'height' => 1080
 		),
@@ -533,7 +533,7 @@ $ecommerce->setProductsData(array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => 'Christenson Combative',
-			'image' => 'http://localhost/images/BCWM.jpg',
+			'image' => 'https://stipplingart/images/BCWM.jpg',
 			'description' => '36"x 24"',
 			'offers' => array(
 				'@type' => 'Offer',
@@ -588,7 +588,7 @@ $ecommerce->setProductsData(array(
 		),
 		'thumb' => array(
 			'type' => 'image/jpg',
-			'url' => 'http://localhost/images/GENWM.jpg',
+			'url' => 'https://stipplingart/images/GENWM.jpg',
 			'width' => 715,
 			'height' => 1080
 		),
@@ -640,7 +640,7 @@ $ecommerce->setProductsData(array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => 'Ganesha',
-			'image' => 'http://localhost/images/GENWM.jpg',
+			'image' => 'https://stipplingart/images/GENWM.jpg',
 			'description' => '36"x 24"',
 			'offers' => array(
 				'@type' => 'Offer',
@@ -695,7 +695,7 @@ $ecommerce->setProductsData(array(
 		),
 		'thumb' => array(
 			'type' => 'image/jpg',
-			'url' => 'http://localhost/images/QNWM.jpg',
+			'url' => 'https://stipplingart/images/QNWM.jpg',
 			'width' => 838,
 			'height' => 1080
 		),
@@ -747,7 +747,7 @@ $ecommerce->setProductsData(array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => 'Queen',
-			'image' => 'http://localhost/images/QNWM.jpg',
+			'image' => 'https://stipplingart/images/QNWM.jpg',
 			'description' => '36"x 24"',
 			'offers' => array(
 				'@type' => 'Offer',
@@ -802,7 +802,7 @@ $ecommerce->setProductsData(array(
 		),
 		'thumb' => array(
 			'type' => 'image/jpg',
-			'url' => 'http://localhost/images/GTWM_cxj8j9lz.jpg',
+			'url' => 'https://stipplingart/images/GTWM_cxj8j9lz.jpg',
 			'width' => 715,
 			'height' => 1080
 		),
@@ -854,7 +854,7 @@ $ecommerce->setProductsData(array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => 'Greta Thurnberg',
-			'image' => 'http://localhost/images/GTWM_cxj8j9lz.jpg',
+			'image' => 'https://stipplingart/images/GTWM_cxj8j9lz.jpg',
 			'description' => '36"x 24"',
 			'offers' => array(
 				'@type' => 'Offer',
@@ -909,7 +909,7 @@ $ecommerce->setProductsData(array(
 		),
 		'thumb' => array(
 			'type' => 'image/jpg',
-			'url' => 'http://localhost/images/IKWM_2bu3eumw.jpg',
+			'url' => 'https://stipplingart/images/IKWM_2bu3eumw.jpg',
 			'width' => 727,
 			'height' => 1080
 		),
@@ -961,7 +961,7 @@ $ecommerce->setProductsData(array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => 'Imran Khan',
-			'image' => 'http://localhost/images/IKWM_2bu3eumw.jpg',
+			'image' => 'https://stipplingart/images/IKWM_2bu3eumw.jpg',
 			'description' => '36"x 24"',
 			'offers' => array(
 				'@type' => 'Offer',
@@ -1016,7 +1016,7 @@ $ecommerce->setProductsData(array(
 		),
 		'thumb' => array(
 			'type' => 'image/jpg',
-			'url' => 'http://localhost/images/WVWM_oqpseitt.jpg',
+			'url' => 'https://stipplingart/images/WVWM_oqpseitt.jpg',
 			'width' => 1645,
 			'height' => 1080
 		),
@@ -1178,7 +1178,7 @@ $ecommerce->setProductsData(array(
 		'schemaOrg' => array(
 			'@type' => 'Product',
 			'name' => 'The Wave',
-			'image' => 'http://localhost/images/WVWM_oqpseitt.jpg',
+			'image' => 'https://stipplingart/images/WVWM_oqpseitt.jpg',
 			'description' => '48" x 24"',
 			'offers' => array(
 				'@type' => 'Offer',
@@ -1235,8 +1235,8 @@ $ecommerce->setPaymentData(array(
 		'description' => 'Pay via PayPal',
 		'email_text' => 'Please make the payment using the PayPal link provided below. Order will only be confirmed after the payment has been made.',
 		'enableAfterPaymentEmail' => true,
-		'page_ok' => 'http://localhost/index.html',
-		'page_ko' => 'http://localhost/index.html'
+		'page_ok' => 'https://stipplingart/index.html',
+		'page_ko' => 'https://stipplingart/index.html'
 	)));
 $ecommerce->setShippingData(array(
 	'hdj47dut' => array(
